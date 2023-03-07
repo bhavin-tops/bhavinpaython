@@ -1,0 +1,6 @@
+git clone URL
+
+cd folder_name
+git add.
+git commit-m "merge"
+git push
